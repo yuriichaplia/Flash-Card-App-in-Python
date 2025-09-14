@@ -1,6 +1,6 @@
 # French to English Flashcard App
 
-This is a simple Python Tkinter flashcard application to help learners memorize French vocabulary.
+This is a simple Python Tkinter flashcard application to help learners memorize French vocabulary.<br>
 Note that this app can be used to help memorize vocabulary of any language by replacing french_words.csv with another csv file.
 
 ## Features
